@@ -1,4 +1,5 @@
 import React from 'react'
+import items from '../../../src/data'
 
 const product = ({items}) => {
   return <div className=" section-center">

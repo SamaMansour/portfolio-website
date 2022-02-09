@@ -1,11 +1,10 @@
 const menu = [
     {
       id: 1,
-      title: 'buttermilk pancakes',
+      title: 'Accurate',
       category: 'django',
-      price: 15.99,
-      img: './images/item-1.jpeg',
-      desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+      img: '../../img/heart.png',
+      desc: `A medicine dose tracker with a cronjob service in order to alert users with dose time `,
     },
     {
       id: 2,
@@ -66,7 +65,7 @@ const menu = [
     {
       id: 9,
       title: 'quarantine buddy',
-      category: 'FLutter',
+      category: 'Flutter',
       price: 16.99,
       img: './images/item-9.jpeg',
       desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
