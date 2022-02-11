@@ -5,6 +5,7 @@ import Product from '../product/product'
 const productList = ({items}) => {
 
   return (
+    // creating card list item 
  <div className="p1">
      <div className="p1-texts">
          <h2  className='title'>Projects List</h2>
@@ -16,6 +17,7 @@ const productList = ({items}) => {
 
          </p>
      </div>
+     
      <div className="p1-list">
      <div className=" section-center">
     {items.map ((menuItem) =>{

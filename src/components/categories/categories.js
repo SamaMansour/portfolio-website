@@ -1,6 +1,6 @@
 import React from 'react';
 import './categories.css'
-
+// filtering items by categories 
 const Categories = ({ categories, filterItems}) => {
   return <div className="btn-container">
    {categories.map((category, index) =>{
