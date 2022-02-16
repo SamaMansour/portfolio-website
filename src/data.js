@@ -3,7 +3,7 @@ const menu = [
       id: 1,
       title: 'Accurate',
       category: 'django',
-      img: '../img/heart.png',
+      img: '/img/heart.png',
       desc: `A medicine dose tracker with a cronjob service in order to alert users with dose time `,
     },
     {
@@ -15,19 +15,19 @@ const menu = [
     },
     {
       id: 3,
-      title: 'godzilla milkshake',
+      title: 'Sleep tracker ',
       category: 'ASP.NET',
       price: 6.99,
       img: './images/item-3.jpeg',
-      desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
+      desc: `A sleep tracker with charts monitoring for averrage sleeping`,
     },
     {
       id: 4,
-      title: 'country delight',
+      title: 'cozy shop',
       category: 'MERN',
       price: 20.99,
       img: './images/item-4.jpeg',
-      desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
+      desc: `A pizza delivery shop with stripe extension`,
     },
     {
       id: 5,

@@ -31,7 +31,7 @@ function App() {
    <Intro/>
    <Categories categories= {categories} filterItems= {filterItems}/>
    <ProductList items = {menuItems}/>
-   <Contact/>
+
    
    </>
 
